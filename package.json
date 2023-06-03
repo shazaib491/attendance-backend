@@ -38,6 +38,7 @@
     "class-validator": "^0.14.0",
     "moment": "^2.29.4",
     "mongoose": "^7.1.0",
+    "ngrok": "^5.0.0-beta.2",
     "passport-jwt": "^4.0.1",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0"
